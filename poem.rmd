@@ -20,7 +20,6 @@ you, if you change any of this the git program will notice it and compromise you
 Did gyre and gimble in the wabe:  
 All mimsy were the borogoves,  
 And the mome raths outgrabe.  
-
 "Beware the Jabberwock, my son!
 
 ## Second Verse
